@@ -1,0 +1,3 @@
+rootProject.name = "EmpireState"
+include ':app'
+include ':base'
